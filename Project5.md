@@ -20,7 +20,3 @@ screenshot showing successful creation of remote user, and test_db on db-server 
 
 mysql db-server connected successfully from client server and displays the database.
 ![Capture4](https://user-images.githubusercontent.com/85373831/132423872-4d296426-80af-465b-bca1-c1f59017c3f7.PNG)
-
-
-
-
