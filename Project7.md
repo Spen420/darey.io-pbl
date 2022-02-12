@@ -1,1 +1,21 @@
+# PROJECT 7: DEVOPS TOOLING WEBSITE SOLUTION
 
+
+![C](https://user-images.githubusercontent.com/85373831/153722477-b62caee9-b2ce-432a-8c6b-2e3df8fc253a.PNG)
+![C1](https://user-images.githubusercontent.com/85373831/153722528-b8ef107d-01eb-4121-ba2f-42e6355befb2.PNG)
+![C2](https://user-images.githubusercontent.com/85373831/153722530-d9c2eb1f-ac9a-4fc4-8286-c9cfa7399968.PNG)
+![C3](https://user-images.githubusercontent.com/85373831/153722531-fb1ccdea-3b1b-4972-9c28-03a00ff14c2f.PNG)
+![C4](https://user-images.githubusercontent.com/85373831/153722532-e44183f2-6f01-475c-a8d0-8280b8df739d.PNG)
+![C5](https://user-images.githubusercontent.com/85373831/153722533-499fc99a-c81e-4d31-9662-7436f023c377.PNG)
+![C6](https://user-images.githubusercontent.com/85373831/153722534-aa5bc69e-fc66-4001-9d32-05825b6381c5.PNG)
+![C7](https://user-images.githubusercontent.com/85373831/153722535-23ae281a-8025-49a8-86e5-bde53c8881b7.PNG)
+![C8](https://user-images.githubusercontent.com/85373831/153722536-df86f3f5-d6dd-4630-8b8b-be64abe91873.PNG)
+![C9](https://user-images.githubusercontent.com/85373831/153722537-b380a935-3dc5-40c9-9669-55a701bf5da7.PNG)
+![C10](https://user-images.githubusercontent.com/85373831/153722538-8d3ad768-a4e2-47c6-a38a-9428d753697d.PNG)
+![C11](https://user-images.githubusercontent.com/85373831/153722539-a1b1622e-aa01-418d-9496-5d9853994e14.PNG)
+![C12](https://user-images.githubusercontent.com/85373831/153722540-daebc976-7ebd-48c3-bd8b-61ddc9d22151.PNG)
+![C13](https://user-images.githubusercontent.com/85373831/153722541-e2c4743e-9177-4506-8938-769476724e5a.PNG)
+![C14](https://user-images.githubusercontent.com/85373831/153722543-91f7e8b7-ed9d-45a5-b3df-1ad21371943d.PNG)
+![C15](https://user-images.githubusercontent.com/85373831/153722544-8ad4ffd3-7075-4786-bfa8-bde62cf25d2b.PNG)
+![C16](https://user-images.githubusercontent.com/85373831/153722545-3311822b-dd21-4c0b-a75e-6b1b379cf34a.PNG)
+![C17](https://user-images.githubusercontent.com/85373831/153722546-e1d2fe18-32b6-4024-83e1-82f389a798bd.PNG)
