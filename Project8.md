@@ -1,1 +1,11 @@
-
+# LOAD BALANCER SOLUTION WITH APACHE
+![C](https://user-images.githubusercontent.com/85373831/177226853-160d3abf-338e-461a-bfd8-c44bb9868109.PNG)
+![C1](https://user-images.githubusercontent.com/85373831/177226854-138e2d4d-5b9b-442c-9f07-5d22ee5a97d6.PNG)
+![C2](https://user-images.githubusercontent.com/85373831/177226855-fd322128-5576-4fc8-b4c7-40fb093409b5.PNG)
+![C3](https://user-images.githubusercontent.com/85373831/177226856-3dfce20e-17d0-455f-80d3-c570fc8dbcf1.PNG)
+![C4](https://user-images.githubusercontent.com/85373831/177226857-66164cbd-25b4-46ad-a884-a88c154523f1.PNG)
+![C5](https://user-images.githubusercontent.com/85373831/177226858-128f1fea-0198-4510-9508-841a50123807.PNG)
+![C6](https://user-images.githubusercontent.com/85373831/177226861-04742bbf-cd4a-4661-bf0d-8a4815170a14.PNG)
+![C7](https://user-images.githubusercontent.com/85373831/177226862-20ff3c18-1e97-46d6-8208-b672d876baab.PNG)
+![C8](https://user-images.githubusercontent.com/85373831/177226863-c470bde8-402d-4923-857a-c9392e445267.PNG)
+![C9](https://user-images.githubusercontent.com/85373831/177226864-64b98111-875a-4b38-9009-1e530d04c54b.PNG)
