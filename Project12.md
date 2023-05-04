@@ -1,1 +1,12 @@
-
+##ANSIBLE REFACTORING AND STATIC ASSIGNMENTS (IMPORTS AND ROLES)
+![C](https://user-images.githubusercontent.com/85373831/236079215-edaac7c7-dd1f-4f63-a4fd-4ef1912d4cb6.PNG)
+![C1](https://user-images.githubusercontent.com/85373831/236079217-7b6c0f65-44ce-4fab-8de5-8b1fe7b0dd6f.PNG)
+![C2](https://user-images.githubusercontent.com/85373831/236079218-25a9e6e2-4045-46f8-b733-c4deb6a94c19.PNG)
+![C3](https://user-images.githubusercontent.com/85373831/236079219-0855946d-5a55-48c9-baee-fa9501927af9.png)
+![C4](https://user-images.githubusercontent.com/85373831/236079221-4fe53a61-4ce3-4c00-8ad4-e2d167417729.png)
+![C5](https://user-images.githubusercontent.com/85373831/236079222-470c211c-1cef-454f-bd4f-def03e571b0e.png)
+![C6](https://user-images.githubusercontent.com/85373831/236079223-67c50834-13f6-4574-908c-371c4ea5f2d1.png)
+![C7](https://user-images.githubusercontent.com/85373831/236079224-a2869eb0-8e53-4dfb-bafe-c11ac6b2b3ee.png)
+![C8](https://user-images.githubusercontent.com/85373831/236079225-6e1fd724-51e6-4e29-93db-61780a4bf062.png)
+![C9](https://user-images.githubusercontent.com/85373831/236079227-9576c9ad-5bd9-4392-ac76-480d60b031ad.png)
+![C10](https://user-images.githubusercontent.com/85373831/236079228-b3a42df6-6698-4032-a7c4-feb148cc1b51.png)
